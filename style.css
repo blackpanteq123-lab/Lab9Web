@@ -1,0 +1,17 @@
+body{font-family:Arial;background:#f4f4f4;margin:0;padding:20px}
+.container{max-width:1100px;margin:auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1)}
+h1{text-align:center;color:#333}
+table{width:100%;border-collapse:collapse;margin-top:20px}
+th,td{border:1px solid #ddd;padding:12px;text-align:left}
+th{background:#007bff;color:white}
+tr:nth-child(even){background:#f9f9f9}
+img{width:80px;height:80px;object-fit:cover;border-radius:5px}
+.input{margin:15px 0}
+.input label{display:inline-block;width:140px;font-weight:bold}
+.input input,.input select{width:320px;padding:8px;border:1px solid #ccc;border-radius:4px}
+.submit input{
+    background:#28a745;color:white;border:none;padding:12px 30px;border-radius:4px;cursor:pointer;font-size:16px
+}
+.submit input:hover{background:#218838}
+a{color:#007bff;text-decoration:none}
+a:hover{text-decoration:underline}
